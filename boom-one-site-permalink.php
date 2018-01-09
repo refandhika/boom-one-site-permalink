@@ -2,7 +2,7 @@
 /**
 * Plugin Name: 	Boombastis - One Host Permalink
 * Plugin URI: 	https://www.boombastis.com
-* Description: 	Fixing host name in admin pages when using multiple site.
+* Description: 	Unify site name in all pages when using multiple site.
 * Version: 		1.0.0
 * Author: 		Refa Andhika
 * Author URI: 	https://www.boombastis.com
