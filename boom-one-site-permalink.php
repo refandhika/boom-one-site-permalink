@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: 	Boombastis - One Host Permalink
+* Plugin Name: 	Boombastis - One Site Permalink
 * Plugin URI: 	https://www.boombastis.com
 * Description: 	Unify site name in all pages when using multiple site.
 * Version: 		1.0.0
